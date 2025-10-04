@@ -1,4 +1,4 @@
-# Online Class Feedback System
+# Online Feedback System
 
 ## Purpose
 To allow students to give anonymous feedback on subjects, classes, and teaching methods for continuous improvement.
